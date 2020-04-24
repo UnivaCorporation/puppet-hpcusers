@@ -1,0 +1,54 @@
+{
+    "author": "Tom Downes (Univa Corporation)",
+    "dependencies": [],
+    "license": "Apache-2.0",
+    "name": "univa-hpcusers",
+    "operatingsystem_support": [
+        {
+            "operatingsystem": "CentOS",
+            "operatingsystemrelease": [
+                "7"
+            ]
+        },
+        {
+            "operatingsystem": "OracleLinux",
+            "operatingsystemrelease": [
+                "7"
+            ]
+        },
+        {
+            "operatingsystem": "RedHat",
+            "operatingsystemrelease": [
+                "7"
+            ]
+        },
+        {
+            "operatingsystem": "Scientific",
+            "operatingsystemrelease": [
+                "7"
+            ]
+        },
+        {
+            "operatingsystem": "Debian",
+            "operatingsystemrelease": [
+                "8"
+            ]
+        },
+        {
+            "operatingsystem": "Ubuntu",
+            "operatingsystemrelease": [
+                "16.04"
+            ]
+        }
+    ],
+    "project_page": "https://gitlab.tor.univa.com/tdownes/puppet-hpcusers",
+    "requirements": [
+        {
+            "name": "puppet",
+            "version_requirement": ">= 4.10.0 < 7.0.0"
+        }
+    ],
+    "source": "https://gitlab.tor.univa.com/tdownes/puppet-hpcusers.git",
+    "summary": "",
+    "version": "0.9.0"
+}
